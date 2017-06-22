@@ -1,0 +1,30 @@
+{
+  "name": "allex_bunyanloggerserverruntimelib",
+  "version": "1.0.0",
+  "description": "Helper for Bunyan logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-serverruntime-libs/bunyanlogger.git"
+  },
+  "dependencies": {
+    "bunyan": "1.x"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "bunyan",
+    "logger",
+    "server",
+    "runtime",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-serverruntime-libs/bunyanlogger/issues"
+  },
+  "homepage": "https://github.com/allex-serverruntime-libs/bunyanlogger#readme"
+}
